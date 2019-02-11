@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Copyright 2017 LasLabs Inc.
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
@@ -38,7 +37,7 @@ class TestWebsiteSale(TransactionCase):
         res = self.controller._get_search_domain(None, None, None)
 
         self.return_value[4] = ('name', '%', 'Test')
-        self.assertEquals(
+        self.assertEqual(
             res,
             self.return_value,
         )

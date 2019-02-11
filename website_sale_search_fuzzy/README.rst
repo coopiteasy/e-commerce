@@ -1,4 +1,4 @@
-.. image:: https://img.shields.io/badge/license-AGPL--3-blue.svg
+.. image:: https://img.shields.io/badge/license-AGPL--3-blue.png
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 
@@ -10,14 +10,14 @@ Extension of eCommerce that adds a fuzzy search for product names.
 
 Make sure to follow the installation instructions of base_search_fuzzy before
 installing this module, which can be found in
-`OCA/server-tools <https://github.com/OCA/server-tools/tree/10.0/base_search_fuzzy>`_.
+`OCA/server-tools <https://github.com/OCA/server-tools/tree/11.0/base_search_fuzzy>`_.
 
 Usage
 =====
 
 .. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
    :alt: Try me on Runbot
-   :target: https://runbot.odoo-community.org/runbot/113/10.0
+   :target: https://runbot.odoo-community.org/runbot/113/11.0
 
 Bug Tracker
 ===========
