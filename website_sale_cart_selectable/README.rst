@@ -28,14 +28,24 @@ Website Sale Cart Selectable
 
 |badge1| |badge2| |badge3| |badge4| |badge5|
 
-This module extends the functionality of the website to improve the control on
-the button "Add to cart". Button "Add to cart" can now be set to be published
-or not.
+This module allows you to enable or disable the button 'Add to cart' in the
+e-commerce on a per-product basis.
 
 **Table of contents**
 
 .. contents::
    :local:
+
+Use Cases / Context
+===================
+
+Odoo allows you to set products as unpublished, effectively disallowing people
+from buying these products. However, a company may want to publish a product
+online to allow a customer to view the product, but NOT allow the customer to
+purchase the product.
+
+This module addresses that need by adding a toggle for the display of the 'Add
+to cart' button.
 
 Usage
 =====

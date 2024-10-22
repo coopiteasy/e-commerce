@@ -1,3 +1,2 @@
-This module extends the functionality of the website to improve the control on
-the button "Add to cart". Button "Add to cart" can now be set to be published
-or not.
+This module allows you to enable or disable the button 'Add to cart' in the
+e-commerce on a per-product basis.
