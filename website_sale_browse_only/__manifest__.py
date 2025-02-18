@@ -1,5 +1,5 @@
 {
-    "name": "Website Sale Browse Mode",
+    "name": "Website Sale Browse Only",
     "version": "16.0.1.0.0",
     "category": "Website",
     "author": "Coop IT Easy SC, Odoo Community Association (OCA)",
